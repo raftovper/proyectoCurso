@@ -4,6 +4,17 @@
 #no-border-list li {
 	border: 0px;
 	background: transparent;
+	color: white;
+	margin-bottom: 10px;
+}
+
+#no-border-list a {
+	color: white;
+	text-decoration: none;
+}
+
+#no-border-list {
+	padding: 5%;
 }
 
 #services_background {
@@ -13,8 +24,6 @@
 #home_background {
 	width: 100%;
 }
-
-
 
 #logo_container {
 	text-align: center;
@@ -53,17 +62,51 @@
 }
 
 .logo_text {
-	width: 100%;
+	width: 90%;
 }
 
 #social_div {
 	text-align: center;
 	overflow: hidden;
 	border-bottom: 1px solid white;
-	padding-bottom:5px;
+	padding-bottom: 5px;
 }
 
 .social_logo {
 	width: 20%;
-	display:inline-block;
+	display: inline-block;
+}
+
+.custom_icon {
+	border: 0px;
+}
+
+#prices_accordion p {
+	margin: 0;
+}
+
+#div_time #div_clock {
+	float: left;
+	width: 30%;
+}
+
+#div_time #div_clock img {
+	width: 70%;
+}
+
+#div_time p {
+	margin-top: 5px;
+}
+
+#map_marker img {
+	background-color: #00714F;
+	width: 20%;
+}
+
+.technologies_image {
+	border: 2px solid #00714F;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	width: 100%;
 }
