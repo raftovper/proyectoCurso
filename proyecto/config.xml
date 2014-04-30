@@ -7,8 +7,8 @@ id        = "com.example.starwarscoffee"
 version   = "1.0.0">
 
 	<name>StarWars Coffee</name>
-	<description>Test app in Jquery</description>
-	<author href="http://www.javiercantos.net" email="tovarpereira@gmail.com">Rafael Tovar</author>
+	<description>Final Project for an HTML5 course</description>
+	<author href="https://github.com/raftovper/" email="tovarpereira@gmail.com">Rafael Tovar</author>
 
 	<!-- Define app icon for each platform. -->
 	<icon src="icon.png" />
